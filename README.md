@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Mayank Bisht
-**A passionate Full Stack Developer || Backend Developer || Frontend Developer
+A passionate Full Stack Developer || Backend Developer || Frontend Developer
 
 Email Me 👉 ✉️ **mayankb.1202@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
