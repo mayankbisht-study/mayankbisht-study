@@ -1,3 +1,7 @@
+# 💫 Hi 👋, I'm Mayank Bisht
+**A passionate Full Stack Developer || Backend Developer || Frontend Developer
+
+Email Me 👉 ✉️ **mayankb.1202@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-bisht-8a123122b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankbisht.1202@gmail.com) 
